@@ -1,3 +1,3 @@
 # Mi currículum
-![Imagen]()
+![Imagen](hector.jpg)
 ## Perfil profesional
