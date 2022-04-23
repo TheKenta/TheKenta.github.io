@@ -7,7 +7,7 @@
 
 _Alumno de IFP Hospitalet, en el ámbito de sistemas Microinformático y Redes, actualmente cursando el segundo año._
 
-##Idiomas
+## Idiomas
 - Español
 - Catalan
 - Ingles (B1)
