@@ -12,7 +12,7 @@ _Alumno de IFP Hospitalet, en el ámbito de sistemas Microinformático y Redes, 
 - Catalan
 - Ingles (B1)
 
-##Habilidades
+## Habilidades
 - Dedicado
 - Puntualidad
 - Adaptable
