@@ -21,6 +21,6 @@ _Me encuentro interesado en la programacion_
 
 ### Proyectos personales
 
-- [Trabajo html](/Trabajo_en_html)
-- [Trabajo pelicula html](/Trabajo_pelicula_en_html)
-- [Trabajo noticia html](/Trabajo_noticia_en_html)
+- [Trabajo html](/Proyecto1)
+- [Trabajo pelicula html](/Proyecto2)
+- [Trabajo noticia html](/Proyecto3)
