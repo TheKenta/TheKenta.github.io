@@ -19,6 +19,6 @@ _Alumno de IFP Hospitalet, en el ámbito de sistemas Microinformático y Redes, 
 ## Interes Profesional
 _Me encuentro interesado en la programacion_
 
-###Proyectos personales
+### Proyectos personales
 
 'TheKenta.github.io\Trabajo html'
