@@ -21,4 +21,4 @@ _Me encuentro interesado en la programacion_
 
 ### Proyectos personales
 
-- [](TheKenta.github.io\Trabajo html)
+- +![](TheKenta.github.io\Trabajo html)
