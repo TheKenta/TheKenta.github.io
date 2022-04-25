@@ -23,4 +23,4 @@ _Me encuentro interesado en la programacion_
 
 - [Trabajo html](/Trabajo.html)
 - [Trabajo pelicula html](/Trabajo_pelicula.html)
-- [Trabajo noticia html] (/Trabajo_noticia)
+- [Trabajo noticia html] (/Trabajo_noticia.html)
