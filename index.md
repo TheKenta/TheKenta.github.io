@@ -21,4 +21,4 @@ _Me encuentro interesado en la programacion_
 
 ### Proyectos personales
 
-- +[Trabajo](/Trabajo.html)
+- [Trabajo](/Trabajo.html)
