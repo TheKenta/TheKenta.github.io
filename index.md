@@ -16,3 +16,4 @@ _Alumno de IFP Hospitalet, en el ámbito de sistemas Microinformático y Redes, 
 - Dedicado
 - Puntualidad
 - Adaptable
+-
